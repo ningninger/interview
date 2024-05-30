@@ -43,3 +43,32 @@
 ### 计数排序
 
 > 
+
+
+
+
+
+## 介绍课程
+
+### 操作系统
+
+> An operating systems course provides a deep understanding of how computer systems manage hardware and software resources. It covers key concepts such as process management, where you learn how the OS schedules tasks, handles concurrency, and manages inter-process communication. Memory management is another critical area, focusing on how the OS allocates and manages memory, including concepts like virtual memory and paging. The course also delves into file systems, teaching you how data is stored, retrieved, and organized on disk. Security and protection mechanisms are explored to understand how the OS safeguards resources and data from unauthorized access. By the end of the course, you will have a comprehensive understanding of how operating systems function, enabling you to design and optimize system software effectively.
+
+操作系统能够帮助你整合硬件和软件
+
+进程线程管理
+
+
+
+内存管理
+
+
+
+文件系统
+
+
+
+操作系统安全
+
+
+
