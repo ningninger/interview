@@ -88,6 +88,7 @@ string.c_str();
 ## 二分
 
 ```c++
+//左闭右闭
 while (left <= right) {
     int mid = ((right - left) >> 1) + left;
     if (nums[mid] == target) {
