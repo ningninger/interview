@@ -85,14 +85,6 @@
 
 ### 操作系统
 
-> An Operating System (OS) is a fundamental computer program that manages and controls hardware and software resources. 
->
-> It serves as the interface between users and the computer system, facilitating efficient operation and supporting application software. 
->
-> Key functions include resource management (CPU, memory, devices, files), program execution control, and providing various user interfaces. 
->
-> OS features include concurrency (simultaneous event handling), resource sharing among processes, and virtualization to abstract physical resources into logical entities.
-
 > An operating systems course provides a deep understanding of how computer systems manage hardware and software resources. It covers key concepts such as process management, where you learn how the OS schedules tasks, handles concurrency, and manages inter-process communication. Memory management is another critical area, focusing on how the OS allocates and manages memory, including concepts like virtual memory and paging. The course also delves into file systems, teaching you how data is stored, retrieved, and organized on disk. Security and protection mechanisms are explored to understand how the OS safeguards resources and data from unauthorized access. By the end of the course, you will have a comprehensive understanding of how operating systems function, enabling you to design and optimize system software effectively.
 
 操作系统能够帮助你整合硬件和软件
@@ -107,83 +99,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> An Operating System (OS) is a fundamental computer program that manages and controls hardware and software resources. 
+>
+> It serves as the interface between users and the computer system, facilitating efficient operation and supporting application software. 
+>
+> Key functions include resource management (CPU, memory, devices, files), program execution control, and providing various user interfaces. 
+>
+> OS features include concurrency (simultaneous event handling), resource sharing among processes, and virtualization to abstract physical resources into logical entities.
 
 
 
@@ -211,11 +133,11 @@ tcp/ip
 
 ### 面向对象
 
-面向对象是一种编程的范式，它的主要想法是将客观世界中的实体抽象为程序中的类，将其设计到的数据和操作封装到这个类中，他的核心概念包括，封装（Encapsulation）、继承（Inheritance）、多态（Polymorphism），这种编程范式由于是对客观世界的映射，所以我们可以更加容易组织和管理其代码、使代码更具可读性、易于扩展和便于维护，进而提高了它的可靠性。
+>面向对象是一种编程的范式，它的主要想法是将客观世界中的实体抽象为程序中的类，将其设计到的数据和操作封装到这个类中，他的核心概念包括，封装（Encapsulation）、继承（Inheritance）、多态（Polymorphism），这种编程范式由于是对客观世界的映射，所以我们可以更加容易组织和管理其代码、使代码更具可读性、易于扩展和便于维护，进而提高了它的可靠性。
 
 
 
-Object-oriented programming is a programming paradigm. Its main idea is to abstract entities from the real world into classes in a program, encapsulating the data and operations related to them within these classes. Its core concepts include encapsulation, inheritance, and polymorphism. This programming paradigm, being a reflection of the real world, allows us to organize and manage code more easily, making it more readable, extendable, and maintainable. Consequently, it enhances its reliability.
+> Object-oriented programming is a programming paradigm. Its main idea is to abstract entities from the real world into classes in a program, encapsulating the data and operations related to them within these classes. Its core concepts include encapsulation, inheritance, and polymorphism. This programming paradigm, being a reflection of the real world, allows us to organize and manage code more easily, making it more readable, extendable, and maintainable. Consequently, it enhances its reliability.
 
 
 
@@ -303,7 +225,9 @@ Object-oriented programming is a programming paradigm. Its main idea is to abstr
 
 ### dfs
 
-> 
+> DFS (Depth-First Search) is an algorithm used for traversing or searching tree and graph data structures. It starts at a specified node and explores as far as possible along each branch before backtracking. The main idea of DFS is to go deep into the graph from the starting node, visiting each node and marking it as visited, and then recursively visiting all unvisited neighbors of that node. When no more nodes can be visited, the algorithm backtracks to the previous node and continues the exploration from there. This process can be implemented using either recursion or an explicit stack.
+>
+> the time complexity of dfs is O(n). it is clear because we only visit each vertice once.
 
 
 
